@@ -3,7 +3,7 @@
 A complete e-commerce website built with React.js featuring product listings, shopping cart, checkout, and order management.
 
 ## 🌟 Live Demo
-[Add your deployment link here]
+https://ecommerce-website-react-dusky.vercel.app/
 
 ## ✨ Features
 - 🏠 Home Page with hero section
