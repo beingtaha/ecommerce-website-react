@@ -2,8 +2,8 @@
 
 A complete e-commerce website built with React.js featuring product listings, shopping cart, checkout, and order management.
 
-## 🚀 Live Demo
-[![Vercel](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-website-react-dusky.vercel.app/)
+## 🚀 Live Demo 
+https://ecommerce-website-react-dusky.vercel.app/
 
 ## ✨ Features
 - 🏠 Home Page with hero section
